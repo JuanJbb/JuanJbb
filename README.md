@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Juan Jacomassi, tenho 17 anos e sou de São Carlos, São Paulo. Concluí o Ensino Médio no Instituo Federal de São Paulo (IFSP), com curso Técnico em Informática para a Internet. Curso, atualmente, Bacharelado em Sistemas de Informação na Universidade de São Paulo (USP).
+Meu nome é Juan Jacomassi, tenho 17 anos e sou de São Carlos, São Paulo. Concluí o Ensino Médio no Instituto Federal de São Paulo (IFSP), com curso Técnico em Informática para a Internet. Curso, atualmente, Bacharelado em Sistemas de Informação na Universidade de São Paulo (USP).
 
 <p align="left">
   <a href="https://github.com/Juan-Jacomassi?tab=repositories&sort=stargazers](https://www.linkedin.com/in/juan-jacomassi-4b630034b/">
